@@ -9,7 +9,7 @@
     "discounts": 0.15,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "A young boy discovers he is a wizard.",
     "image": "https://covers.openlibrary.org/b/isbn/9780545582889-M.jpg",
     "pub_date": "1997-06-26"
@@ -23,7 +23,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "A mysterious chamber is opened at Hogwarts.",
     "image": "https://covers.openlibrary.org/b/isbn/9780439064873-M.jpg",
     "pub_date": "1998-07-02"
@@ -37,7 +37,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "An escaped prisoner hunts Harry.",
     "image": "https://covers.openlibrary.org/b/isbn/9780439136365-M.jpg",
     "pub_date": "1999-07-08"
@@ -51,7 +51,7 @@
     "discounts": 0.1,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "Harry competes in the Triwizard Tournament.",
     "image": "https://covers.openlibrary.org/b/isbn/9780439139601-M.jpg",
     "pub_date": "2000-07-08"
@@ -65,7 +65,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "A secret society forms to fight Voldemort.",
     "image": "https://covers.openlibrary.org/b/isbn/9780439358071-M.jpg",
     "pub_date": "2003-06-21"
@@ -79,7 +79,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "Harry learns about Voldemort's past.",
     "image": "https://covers.openlibrary.org/b/isbn/9780439785969-M.jpg",
     "pub_date": "2005-07-16"
@@ -93,7 +93,7 @@
     "discounts": 0.2,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "The final battle between good and evil.",
     "image": "https://covers.openlibrary.org/b/isbn/9780545010221-M.jpg",
     "pub_date": "2007-07-21"
@@ -107,7 +107,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "A street urchin joins a crew to topple an empire.", 
     "image": "https://covers.openlibrary.org/b/isbn/9780765360960-M.jpg",
     "pub_date": "2006-07-17"
@@ -121,7 +121,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "The struggle to rebuild after the empire falls.",
     "image": "https://covers.openlibrary.org/b/isbn/9780765377142-M.jpg",
     "pub_date": "2007-08-21"
@@ -135,7 +135,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "The conclusion of the Mistborn trilogy.",
     "image": "https://covers.openlibrary.org/b/isbn/9780765356147-M.jpg",
     "pub_date": "2008-10-14"
@@ -149,7 +149,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.6,
+    "rating": 4.6,
     "description": "Mistborn moves into the industrial age.",
     "image": "https://covers.openlibrary.org/b/isbn/9780765313042-M.jpg",
     "pub_date": "2011-11-08"
@@ -163,7 +163,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": false,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "Wax and Wayne investigate a political conspiracy.",
     "image": "https://covers.openlibrary.org/b/isbn/9780765378551-M.jpg",
     "pub_date": "2015-10-06"
@@ -177,7 +177,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": false,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "A hunt for legendary bracers once worn by the Lord Ruler.",
     "image": "https://covers.openlibrary.org/b/isbn/9780765378575-M.jpg",
     "pub_date": "2016-01-26"
@@ -191,7 +191,7 @@
     "discounts": 0.15,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "The final adventure for Wax and Wayne.",
     "image": "",
     "pub_date": "2022-11-15"
@@ -205,7 +205,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "The start of the Stormlight Archive.", 
     "image": "https://covers.openlibrary.org/b/isbn/9780765326355-M.jpg",
     "pub_date": "2010-08-31"
@@ -220,7 +220,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "Kaladin and Shallan face new challenges.",
     "image": "https://covers.openlibrary.org/b/isbn/9781429949620-M.jpg",
     "pub_date": "2014-03-04"
@@ -235,7 +235,7 @@
     "discounts": 0.1,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "Dalinar Kholin confronts his bloody past.",
     "image": "https://covers.openlibrary.org/b/isbn/9780765326379-M.jpg",
     "pub_date": "2017-11-14"
@@ -250,7 +250,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "War rages on the world of Roshar.",
     "image": "https://covers.openlibrary.org/b/isbn/9780765326386-M.jpg",
     "pub_date": "2020-11-17"
@@ -264,7 +264,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "The epic conclusion to the first Stormlight arc.",
     "image": "",
     "pub_date": "2024-12-06"
@@ -278,7 +278,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": false,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "A survivor of a fallen throne in a magical city.",
     "image": "",
     "pub_date": "2018-05-15"
@@ -293,7 +293,7 @@
     "discounts": 0.05,
     "in_stock": true,
     "is_bestseller": false,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "Book two of the Tarot Sequence.",
     "image": "",
     "pub_date": "2019-12-17"
@@ -308,7 +308,7 @@
     "discounts": 0,
     "in_stock": true,
     "is_bestseller": false,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "The third book in the Tarot Sequence.",
     "image": "",
     "pub_date": "2022-05-17"
@@ -322,7 +322,7 @@
     "discounts": 0.2,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "Small changes lead to remarkable results.",
     "image": "https://covers.openlibrary.org/b/isbn/9780593202174-M.jpg",
     "pub_date": "2018-10-16"
@@ -336,7 +336,7 @@
     "discounts": 0.1,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "A brief history of humankind.",
     "image": "https://covers.openlibrary.org/b/isbn/9780062316097-M.jpg",
     "pub_date": "2011-09-04"
@@ -350,7 +350,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "A young girl leaves her survivalist family for university.",
     "image": "https://covers.openlibrary.org/b/isbn/9780399590504-M.jpg",
     "pub_date": "2018-02-20"
@@ -364,7 +364,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.6,
+    "rating": 4.6,
     "description": "A woman refuses to speak after killing her husband.",
     "image": "https://covers.openlibrary.org/b/isbn/9781250301697-M.jpg",
     "pub_date": "2019-02-05"
@@ -378,7 +378,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "The story of the sorceress Circe.",
     "image": "https://covers.openlibrary.org/b/isbn/9780316556347-M.jpg",
     "pub_date": "2018-04-10"
@@ -392,7 +392,7 @@
     "discounts": 0.15,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "An epic battle for the desert planet Arrakis.",
     "image": "https://covers.openlibrary.org/b/isbn/9780441172719-M.jpg",
     "pub_date": "1965-08-01"
@@ -406,7 +406,7 @@
     "discounts": 0.1,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "A lone astronaut must save Earth.",
     "image": "https://covers.openlibrary.org/b/isbn/9780593135204-M.jpg",
     "pub_date": "2021-05-04"
@@ -420,7 +420,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": false,
-    "reviews": 4.4,
+    "rating": 4.4,
     "description": "The jazz age and the American dream.",
     "image": "https://covers.openlibrary.org/b/isbn/9780743273565-M.jpg",
     "pub_date": "1925-04-10"
@@ -434,7 +434,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "Big Brother is watching you.",
     "image": "https://covers.openlibrary.org/b/isbn/9780451524935-M.jpg",
     "pub_date": "1949-06-08"
@@ -448,7 +448,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": false,
-    "reviews": 4.5,
+    "rating": 4.5,
     "description": "A genetically engineered society.",
     "image": "https://covers.openlibrary.org/b/isbn/9780060850524-M.jpg",
     "pub_date": "1932-01-01"
@@ -462,7 +462,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.6,
+    "rating": 4.6,
     "description": "Between life and death is a library.",
     "image": "https://covers.openlibrary.org/b/isbn/9780143134039-M.jpg",
     "pub_date": "2020-08-13"
@@ -476,7 +476,7 @@
     "discounts": 0.1,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.3,
+    "rating": 4.3,
     "description": "The complex relationship between two teenagers.",
     "image": "https://covers.openlibrary.org/b/isbn/9780571334650-M.jpg",
     "pub_date": "2018-08-28"
@@ -490,7 +490,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "A magical foster home for unusual children.",
     "image": "https://covers.openlibrary.org/b/isbn/9780553448362-M.jpg",
     "pub_date": "2020-03-17"
@@ -504,7 +504,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "An aging starlet tells her life story.",
     "image": "https://covers.openlibrary.org/b/isbn/9781501161933-M.jpg",
     "pub_date": "2017-06-13"
@@ -518,7 +518,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "The legend of Achilles and Patroclus.",
     "image": "https://covers.openlibrary.org/b/isbn/9780062060624-M.jpg",
     "pub_date": "2011-09-20"
@@ -532,7 +532,7 @@
     "discounts": 0.2,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "A modern retelling of David Copperfield.",
     "image": "https://covers.openlibrary.org/b/isbn/9780593441270-M.jpg",
     "pub_date": "2022-10-18"
@@ -546,7 +546,7 @@
     "discounts": 0.15,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "Two friends become world-famous video game designers.",
     "image": "https://covers.openlibrary.org/b/isbn/9780316499019-M.jpg",
     "pub_date": "2022-07-05"
@@ -560,7 +560,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "Timeless lessons on wealth and greed.",
     "image": "https://covers.openlibrary.org/b/isbn/9780857197689-M.jpg",
     "pub_date": "2020-09-08"
@@ -574,7 +574,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "A daughter finds herself after the death of her mother.",
     "image": "https://covers.openlibrary.org/b/isbn/9780525536291-M.jpg",
     "pub_date": "2021-04-20"
@@ -588,7 +588,7 @@
     "discounts": 0.1,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.6,
+    "rating": 4.6,
     "description": "The Osage murders and the birth of the FBI.",
     "image": "https://covers.openlibrary.org/b/isbn/9780385534246-M.jpg",
     "pub_date": "2017-04-18"
@@ -602,7 +602,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.6,
+    "rating": 4.6,
     "description": "The Japanese secret to a long and happy life.",
     "image": "https://covers.openlibrary.org/b/isbn/9780143130727-M.jpg",
     "pub_date": "2017-09-09"
@@ -616,7 +616,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "A shepherd boy follows his dreams to the pyramids.",
     "image": "https://covers.openlibrary.org/b/isbn/9780061122415-M.jpg",
     "pub_date": "1988-01-01"
@@ -630,7 +630,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.6,
+    "rating": 4.6,
     "description": "A group tries to save knowledge as the empire falls.",
     "image": "https://covers.openlibrary.org/b/isbn/9780553293357-M.jpg",
     "pub_date": "1951-05-01"
@@ -644,7 +644,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.6,
+    "rating": 4.6,
     "description": "The two systems of the mind.",
     "image": "https://covers.openlibrary.org/b/isbn/9780374533557-M.jpg",
     "pub_date": "2011-10-25"
@@ -658,7 +658,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.9,
+    "rating": 4.9,
     "description": "A psychiatrist's experience in concentration camps.",
     "image": "https://covers.openlibrary.org/b/isbn/9780807014271-M.jpg",
     "pub_date": "1946-01-01"
@@ -672,7 +672,7 @@
     "discounts": 0.05,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.8,
+    "rating": 4.8,
     "description": "The healing of trauma in brain, mind, and body.",
     "image": "https://covers.openlibrary.org/b/isbn/9780143127741-M.jpg",
     "pub_date": "2014-09-25"
@@ -686,7 +686,7 @@
     "discounts": 0.1,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "A world divided between dragon riders and dragon hunters.",
     "image": "https://covers.openlibrary.org/b/isbn/9780316470446-M.jpg",
     "pub_date": "2019-02-26"
@@ -700,7 +700,7 @@
     "discounts": 0.0,
     "in_stock": true,
     "is_bestseller": true,
-    "reviews": 4.7,
+    "rating": 4.7,
     "description": "The start of the Song of Ice and Fire.",
     "image": "https://covers.openlibrary.org/b/isbn/9780553593716-M.jpg",
     "pub_date": "1996-08-01"
