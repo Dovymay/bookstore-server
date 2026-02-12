@@ -1,6 +1,74 @@
 {
   "books": [
     {
+  "id": "BK-001",
+  "book_name": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "categories": [
+    "Fantasy",
+    "YA"
+  ],
+  "price": 19.99,
+  "discounts": 0,
+  "in_stock": true,
+  "is_bestseller": true,
+  "rating": 4.9,
+  "description": "A young boy discovers he is a wizard and attends Hogwarts for the first time.",
+  "image": "https://m.media-amazon.com/images/I/81DI+BAN2SL._SL1200_.jpg",
+  "pub_date": "1997-06-26"
+},
+{
+  "id": "BK-002",
+  "book_name": "Harry Potter and the Chamber of Secrets",
+  "author": "J.K. Rowling",
+  "categories": [
+    "Fantasy",
+    "YA"
+  ],
+  "price": 21.99,
+  "discounts": 0,
+  "in_stock": true,
+  "is_bestseller": true,
+  "rating": 4.8,
+  "description": "Harry returns to Hogwarts where a mysterious chamber has been opened.",
+  "image": "https://m.media-amazon.com/images/I/81aCN2y18nL._SY466_.jpg",
+  "pub_date": "1998-07-02"
+},
+{
+  "id": "BK-003",
+  "book_name": "Harry Potter and the Prisoner of Azkaban",
+  "author": "J.K. Rowling",
+  "categories": [
+    "Fantasy",
+    "YA"
+  ],
+  "price": 24.99,
+  "discounts": 5,
+  "in_stock": true,
+  "is_bestseller": true,
+  "rating": 4.9,
+  "description": "Harry learns about the escaped prisoner Sirius Black and uncovers shocking truths.",
+  "image": "https://m.media-amazon.com/images/I/81NQA1BDlnL._SY466_.jpg",
+  "pub_date": "1999-07-08"
+},
+{
+  "id": "BK-004",
+  "book_name": "Harry Potter and the Goblet of Fire",
+  "author": "J.K. Rowling",
+  "categories": [
+    "Fantasy",
+    "YA"
+  ],
+  "price": 27.99,
+  "discounts": 10,
+  "in_stock": true,
+  "is_bestseller": true,
+  "rating": 4.9,
+  "description": "Harry competes in the dangerous Triwizard Tournament as dark forces rise again.",
+  "image": "https://m.media-amazon.com/images/I/81zeKRGCPpL._SY466_.jpg",
+  "pub_date": "2000-07-08"
+},
+    {
       "id": "BK-005",
       "book_name": "Harry Potter and the Order of the Phoenix",
       "author": "J.K. Rowling",
@@ -14,7 +82,7 @@
       "is_bestseller": true,
       "rating": 4.8,
       "description": "A secret society forms to fight Voldemort.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780439358071-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/51Z7ZD8xBGL._SY445_SX342_ML2_.jpg",
       "pub_date": "2003-06-21"
     },
     {
@@ -31,7 +99,7 @@
       "is_bestseller": true,
       "rating": 4.9,
       "description": "Harry learns about Voldemort's past.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780439785969-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/81DN1723hUL._SL1500_.jpg",
       "pub_date": "2005-07-16"
     },
     {
@@ -48,7 +116,7 @@
       "is_bestseller": true,
       "rating": 4.9,
       "description": "The final battle between good and evil.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780545010221-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/81aCMT1zKtL._SY466_.jpg",
       "pub_date": "2007-07-21"
     },
     {
@@ -64,7 +132,7 @@
       "is_bestseller": true,
       "rating": 4.8,
       "description": "A street urchin joins a crew to topple an empire.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780765360960-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/71FZmyZhh0L._SY522_.jpg",
       "pub_date": "2006-07-17"
     },
     {
@@ -80,7 +148,7 @@
       "is_bestseller": true,
       "rating": 4.7,
       "description": "The struggle to rebuild after the empire falls.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780765377142-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/51c8b8Bn7wL._SY445_SX342_ML2_.jpg",
       "pub_date": "2007-08-21"
     },
     {
@@ -96,7 +164,7 @@
       "is_bestseller": true,
       "rating": 4.9,
       "description": "The conclusion of the Mistborn trilogy.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780765356147-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/914xOkKuDdL._SL1500_.jpg",
       "pub_date": "2008-10-14"
     },
     {
@@ -113,7 +181,7 @@
       "is_bestseller": true,
       "rating": 4.6,
       "description": "Mistborn moves into the industrial age.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780765313042-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/81mLlkbToxL._SL1500_.jpg",
       "pub_date": "2011-11-08"
     },
     {
@@ -129,7 +197,7 @@
       "is_bestseller": false,
       "rating": 4.7,
       "description": "Wax and Wayne investigate a political conspiracy.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780765378551-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/81UgdZ-YrJL._SL1500_.jpg",
       "pub_date": "2015-10-06"
     },
     {
@@ -145,7 +213,7 @@
       "is_bestseller": false,
       "rating": 4.8,
       "description": "A hunt for legendary bracers once worn by the Lord Ruler.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780765378575-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/91cOXqgvWhL._SL1500_.jpg",
       "pub_date": "2016-01-26"
     },
     {
@@ -161,7 +229,7 @@
       "is_bestseller": true,
       "rating": 4.9,
       "description": "The final adventure for Wax and Wayne.",
-      "image": "",
+      "image": "https://m.media-amazon.com/images/I/81Gp6vgl-cL._SL1500_.jpg",
       "pub_date": "2022-11-15"
     },
     {
@@ -241,7 +309,7 @@
       "is_bestseller": true,
       "rating": 4.9,
       "description": "The epic conclusion to the first Stormlight arc.",
-      "image": "",
+      "image": "https://m.media-amazon.com/images/I/510p-qEUbDL._SY445_SX342_ML2_.jpg",
       "pub_date": "2024-12-06"
     },
     {
@@ -257,7 +325,7 @@
       "is_bestseller": false,
       "rating": 4.7,
       "description": "A survivor of a fallen throne in a magical city.",
-      "image": "",
+      "image": "https://m.media-amazon.com/images/I/410r80oIo3L._SY445_SX342_ML2_.jpg",
       "pub_date": "2018-05-15"
     },
     {
@@ -273,7 +341,7 @@
       "is_bestseller": false,
       "rating": 4.8,
       "description": "Book two of the Tarot Sequence.",
-      "image": "",
+      "image": "https://m.media-amazon.com/images/I/81MEN5L0VaL._SL1500_.jpg",
       "pub_date": "2019-12-17"
     },
     {
@@ -289,7 +357,7 @@
       "is_bestseller": false,
       "rating": 4.8,
       "description": "The third book in the Tarot Sequence.",
-      "image": "",
+      "image": "https://m.media-amazon.com/images/I/717N09DpFBL._SL1500_.jpg",
       "pub_date": "2022-05-17"
     },
     {
@@ -306,7 +374,7 @@
       "is_bestseller": true,
       "rating": 4.9,
       "description": "Small changes lead to remarkable results.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780593202174-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/81kg51XRc1L._SL1500_.jpg",
       "pub_date": "2018-10-16"
     },
     {
@@ -391,7 +459,7 @@
       "is_bestseller": true,
       "rating": 4.7,
       "description": "An epic battle for the desert planet Arrakis.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780441172719-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/81Ua99CURsL._SL1500_.jpg",
       "pub_date": "1965-08-01"
     },
     {
@@ -508,7 +576,7 @@
       "is_bestseller": true,
       "rating": 4.9,
       "description": "A magical foster home for unusual children.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780553448362-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/81b6ldMtxrL._SY466_.jpg",
       "pub_date": "2020-03-17"
     },
     {
@@ -525,7 +593,7 @@
       "is_bestseller": true,
       "rating": 4.8,
       "description": "An aging starlet tells her life story.",
-      "image": "https://covers.openlibrary.org/b/isbn/9781501161933-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/81PkmvwdbhL._SL1500_.jpg",
       "pub_date": "2017-06-13"
     },
     {
@@ -559,7 +627,7 @@
       "is_bestseller": true,
       "rating": 4.7,
       "description": "A modern retelling of David Copperfield.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780593441270-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/91oWtq1Tf1L._SY466_.jpg",
       "pub_date": "2022-10-18"
     },
     {
@@ -576,7 +644,7 @@
       "is_bestseller": true,
       "rating": 4.7,
       "description": "Two friends become world-famous video game designers.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780316499019-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/917IizUbf2L._SY466_.jpg",
       "pub_date": "2022-07-05"
     },
     {
@@ -610,7 +678,7 @@
       "is_bestseller": true,
       "rating": 4.7,
       "description": "A daughter finds herself after the death of her mother.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780525536291-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/817MacA5GnL._SL1500_.jpg",
       "pub_date": "2021-04-20"
     },
     {
@@ -745,9 +813,26 @@
       "is_bestseller": true,
       "rating": 4.7,
       "description": "A world divided between dragon riders and dragon hunters.",
-      "image": "https://covers.openlibrary.org/b/isbn/9780316470446-M.jpg",
+      "image": "https://m.media-amazon.com/images/I/91NXdVnMoGL._SL1500_.jpg",
       "pub_date": "2019-02-26"
-    }
+    }, 
+    {
+  "id": "BK-050",
+  "book_name": "A Game of Thrones",
+  "author": "George R.R. Martin",
+  "categories": [
+    "Fantasy",
+    "Epic Fantasy"
+  ],
+  "price": 32.99,
+  "discounts": 0,
+  "in_stock": true,
+  "is_bestseller": true,
+  "rating": 4.7,
+  "description": "Noble families vie for control of the Iron Throne in a land where winter is coming.",
+  "image": "https://covers.openlibrary.org/b/isbn/9780553103540-M.jpg",
+  "pub_date": "1996-08-06"
+}
   ],
   "users": [
     {
